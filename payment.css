@@ -1,0 +1,32 @@
+/* * {
+    background-color: #18214D;
+} */
+ body{
+    background-color:#131722;
+
+ }
+header{
+    background-color: #131722;
+    
+}
+header a {
+    color: aliceblue;
+    
+}
+nav a {
+    cursor: pointer;
+}
+#logotext {
+
+    color: white;
+}
+.logo{
+    position: absolute;
+    top: 12px;
+    left: 170px;
+    height: 49px;
+    width: 83px;
+}
+#submit{
+    cursor: pointer;
+}
